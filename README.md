@@ -1,6 +1,7 @@
 # A-Roblox-Bridge-Game
 A fun little game about bridges and stuff I created in Roblox Studio. Really basic stuff but fun mechanics with great scope for expansion.
 This project took around 2-3 weeks to design and implement. Although still incomplete, it's sufficiently functional for a proof of concept.
+Public Place Link: https://www.roblox.com/games/15763202757/bridge-game
 
 ## Bridges
 Simple objects that can be adjusted by length to clear a gap in the map. They grow on left-clicking, shrink on right-clicking, and solidify on pressing E.
